@@ -24,6 +24,13 @@ public class Main {
             System.out.println(args[n] + " = " + args[j]);
         }
         }
+    /*   
+         C:\Users\user\IdeaProjects\CommandLineArgs2\src> 
+         javac .\Main.java    
+         java Main hello world
+         java Main con fig ma in hel lo how are 
+         */
+
     public static void main() {
         System.out.println("No arguments: ");
 
